@@ -61,6 +61,8 @@ Text](https://www.sublimetext.com/).
 
 - [Visual Studio Code para
   Python](https://code.visualstudio.com/docs/languages/python)
+- [Video instalación de Python](https://www.youtube.com/watch?v=TEbkMUtv68I)
+- [Video de virtual environment en Python](https://www.youtube.com/watch?v=T2CZ7bltuMs)
 
 ### 4.2 Crear un script de Python
 
